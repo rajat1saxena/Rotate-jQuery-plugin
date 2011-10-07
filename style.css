@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div#cont{
+	overflow: hidden;
+	border: 3px solid black;
+	width:400px;
+	height: 200px;
+	position: relative;
+}
+button{
+	top: 500px;
+	left: 500px;
+}
+div#layer2{
+	background: blue;
+}

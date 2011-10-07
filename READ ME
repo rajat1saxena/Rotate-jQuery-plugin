@@ -1,0 +1,12 @@
+1. Syntax of using the plugin:
+--------------------------------------------------------
+
+<element>.rotate(angle,axis,duration,type,delay)
+
+---------------------------------------------------------
+
+
+
+2. License Info:
+--------------------------------------
+ GNU General Public License
