@@ -13,7 +13,10 @@
 	</div>
 	<script type="text/javascript">
 		$('button').click(function(){
-			$('#cont').rotate(90,"left bottom","500ms","ease-out","0ms");
+			$('#cont').rotate();
+
+			//following line shows over riding default options
+			//$('#cont').rotate({ axis: 'top right' });
 		});
 	</script>
 </body>
