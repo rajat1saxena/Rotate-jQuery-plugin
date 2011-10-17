@@ -1,3 +1,7 @@
+/* Author: Rajat Saxena */
+/* Email: rajat.saxena.work@gmail.com */
+/* License: GNU GPL v2 */
+
 (function($){
 	$.fn.rotate = function(angle,axis,duration,type,delay){
 
